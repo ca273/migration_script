@@ -1,0 +1,6 @@
+venv
+keys.json
+*.csv
+*.log
+.idea
+*.pyc
